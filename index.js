@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
         <html>
             <body>
                 <h1>Página Inicial</h1>
-                <p>Bem-vindo à minha aplicação Node.js!</p>
+                <p>Bem-vindo à minha aplicação Node.js! Versão 2.0</p>
             </body>
         </html>
     `);
